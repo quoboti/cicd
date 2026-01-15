@@ -1,0 +1,31 @@
+{
+  "name": "cicd-test",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000i\u0000c\u0000d\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quoboti/cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/quoboti/cicd/issues"
+  },
+  "homepage": "https://github.com/quoboti/cicd#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^30.2.0",
+    "superagent": "^10.3.0",
+    "supertest": "^7.2.2"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
